@@ -1,0 +1,39 @@
+
+.blue {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.red{
+text-align: center;    
+}
+
+.red{
+font-style: italic;
+}
+
+img{
+max-width: 3000px;
+}
+body {
+    background-image: url("https://dwigallery.com/imgcdn/3264/http/images4.fanpop.com/image/photos/17500000/cool-backgrounds-random-17514354-1024-640.jpg_.jpg");
+    background-size: 3000px 5000px;
+        background-repeat: no-repeat;
+}
+body {
+    color: red;
+}
+.blue{
+font-family: 'Srisakdi', cursive; 
+}
+.Red{
+    font-family: 'Kumar One Outline', cursive;
+font-family: 'Kaushan Script', cursive;
+}
+.Blue{
+    font-family: 'Great Vibes', cursive;
+}
+h1{
+   font-family: 'Seaweed Script', cursive;
+}
